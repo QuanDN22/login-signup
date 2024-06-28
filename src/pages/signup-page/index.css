@@ -1,0 +1,23 @@
+.wrapper {
+    width: 100%;
+}
+.signup {
+    width: 100%;
+    height: 100%;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.signup-form {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-title {
+    text-align: center;
+    color: palevioletred;
+    padding: 16px 0;
+}
